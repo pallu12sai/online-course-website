@@ -1,0 +1,327 @@
+.navbar-expand-lg{
+       background-color: black;
+   }
+   
+   .navbar-brand{
+       font-size: 40px !important;
+       color: white !important;
+   }
+   
+   .navbar-brand:hover{
+       color: lime !important;
+   }
+   
+   .name{
+       font-size: 30px;
+       font-family: 'Times New Roman', Times, serif;
+       margin-left: 5%;
+       margin-top: 10px;
+       margin-right: 40%;
+   }
+   
+   .nav-item{
+       margin-left: 5%;
+       margin-right: 5%;
+       margin-top: 10px;
+       margin-bottom: 10px;
+   }
+   
+   .nav-link{
+       color: white !important;
+   }
+   
+   .nav-link:hover{
+       color: lime !important;
+   }
+   
+   .Background-image{
+       width: 100%;
+       height: 700px;
+   }
+   
+   .categories{
+       margin-top: 5%;
+       text-align: center;
+       font-family: 'Times New Roman', Times, serif;
+   }
+   
+   .categories h4{
+       color: rgb(105, 202, 240);
+   }
+   
+   .one-line{
+       display: flex !important;
+       justify-content: space-evenly;
+       margin: 50px;
+       height: 300px;
+   }
+   
+   .second-line{
+       display: flex !important;
+       justify-content: space-evenly;
+       margin: 50px;
+       height: 300px;
+   }
+   
+   .h-100{
+       height: 300px !important;
+       width: 300px !important;
+       border-radius: 20px !important;
+   }
+   
+   .h-100 img{
+       border-radius: 20px !important;
+   }
+   
+   .card-body a {
+       text-decoration: none !important;
+   }
+   
+   .courses-detail{
+       text-align: center;
+       font-family: 'Times New Roman', Times, serif;
+       margin-top: 5%;
+   }
+   
+   .courses-detail h4{
+       color: rgb(105, 202, 240);
+   }
+   
+   .popular-all-cards{
+       display: flex;
+       justify-content: space-evenly;
+       margin: 50px;
+   }
+   
+   .popular-all-cards img{
+       border-radius: 20px;
+   }
+   
+   .popular-all-cards .card{
+       border-radius: 20px;
+   }
+   
+   .card-rating{
+       font-family: 'Times New Roman', Times, serif;
+       font-size: 20px;
+       text-align: center;
+   }
+   
+   .card-rating span{
+       color: gold;
+   }
+   
+   .card-footer{
+       display: flex;
+       padding: 0 !important;
+       text-align: center;
+   }
+   
+   .user{
+       display: flex;
+       justify-content: center;
+       margin: 2%;
+       width: 30%;
+   }
+   
+   .time{
+       display: flex;
+       justify-content: center;
+       margin: 2%;
+       width: 20%;
+       height: 40%;
+   }
+   
+   .user1{
+       display: flex;
+       justify-self: center;
+       margin: 2%;
+       width: 35%;
+       height: 40%;
+   }
+   
+   .user span{
+       margin: 3% !important;
+       font-size: 1rem;
+   }
+   
+   .user p{
+       font-size: 15px;
+       margin: 1%;
+   }
+   
+   .time span{
+       margin: 3% !important;
+       font-size: 1rem;
+   }
+   
+   .time p{
+       font-size: 15px;
+       margin: 1%;
+   }
+   
+   .user1 span{
+       margin: 3% !important;
+       font-size: 1rem;
+   }
+   
+   .user1 p{
+       font-size: 15px;
+       margin: 1%;
+   }
+   
+   .testimonial{
+       text-align: center;
+       font-family: 'Times New Roman', Times, serif;
+       margin-top: 5%;
+   }
+   
+   .testimonial h4{
+       color: rgb(105, 202, 240);
+   }
+   
+   .testimonal-all-cards{
+       display: flex;
+       justify-content: space-evenly;
+       margin: 50px 20px 50px 20px;
+   }
+   
+   .testimonal-all-cards .mb-3{
+       border-radius: 20px;
+   }
+   
+   .testimonal-all-cards img{
+       height: 160px;
+       width: 200px;
+       border-radius: 20px !important;
+   }
+   
+   .footer-container-all{
+       height: 450px;
+       width: 100%;
+       background-color: rgb(22, 16, 59);
+       color: white;
+   }
+   
+   .footer-container {
+       display: flex;
+       justify-content: space-around;
+       font-family: 'Times New Roman', Times, serif;
+   }
+   
+   .Quicklink{
+       margin: 90px 10px 10px 10px;
+   }
+   
+   .quick-link-items{
+       display: flex;
+   }
+   
+   .quick-one{
+       display: grid;
+       height: 100px;
+       width: 20px;
+   }
+   
+   .quick-one i{
+       font-size: 15px;
+       margin: 5px;
+       text-align: left;
+   }
+   
+   .quick-two{
+       display: grid;
+       height: 100px;
+       width: 140px;
+   }
+   
+   .quick-two a{
+       color: white;
+       text-decoration: none;
+   }
+   
+   .contact{
+       margin: 90px 10px 10px 10px;
+   }
+   
+   .contact-items{
+       display: flex;
+       height: 100px;
+       width: 250px;
+   }
+   
+   .contact-one{
+       display: grid;
+       height: 100px;
+       width: 20px;
+   }
+   
+   .contact-one i{
+       font-size: 15px;
+       margin: 5px 3px 5px 3px;
+       display: flex;
+   }
+   
+   .contact-two{
+       display: grid;
+       height: 100px;
+       width: 140px;
+   }
+   
+   .contact-two p{
+       margin: -2px 3px 3px 3px;
+       width: 220px;
+   }
+   
+   .social-media i{
+       font-size: 20px;
+   }
+   
+   .social-media{
+       display: flex; 
+       width: 100px;
+   }
+   
+   .social-media a{
+       height: 30px;
+       width: 50px;
+       font-size: 30px;
+       margin: 5px;
+       text-decoration: none;
+       color: white;
+   }
+   
+   .gallery{
+       margin: 90px 10px 10px 10px;
+   }
+   
+   .gallery-one img{
+       width: 60px;
+       height: 50px;
+       margin: 5px;
+   }
+   
+   .gallery-two img{
+       width: 60px;
+       height: 50px;
+       margin: 5px;
+   }
+   
+   .newsletter{
+       margin: 90px 10px 10px 10px;
+       width: 220px;
+       height: 70px;
+   }
+   
+   .newsletter-form input{
+       width: 150px;
+   }
+   
+   .footer-container1{
+       color: white;
+   }
+   
+   .footer-logo{
+       color: white;
+       margin: 50px;
+   }

@@ -1,0 +1,441 @@
+.navbar-expand-lg{
+       background-color: rgb(0, 109, 163);
+   }
+   
+   .Background-image{
+       width: 100%;
+   }
+   
+   .navbar-brand{
+       font-size: 40px !important;
+       color: white !important;
+   }
+   
+   .navbar-brand:hover{
+       color: chartreuse !important;
+   }
+   
+   .name{
+       font-size: 30px;
+       font-family: 'Times New Roman', Times, serif;
+       margin-left: 5%;
+       margin-top: 10px;
+       margin-right: 40%;
+   }
+   
+   .nav-item{
+       margin-left: 5%;
+       margin-right: 5%;
+       margin-top: 10px;
+       margin-bottom: 10px;
+   }
+   
+   .nav-link{
+       color: white !important;
+   }
+   
+   .nav-link:hover{
+       color: chartreuse !important;
+   }
+   
+   .div-container{
+       display: flex;
+       justify-content: space-around;
+       margin: 5%;
+   }
+   
+   .div1{
+       height: 300px;
+       width: 300px;
+       background-color: rgba(135, 207, 235, 0.211);
+       border: 2px solid transparent;
+       border-radius: 10%;
+       margin: 10px;
+       text-align: center;
+   }
+   
+   i {
+       font-size: 50px;
+       margin: 30px;
+   }
+   
+   .div1-inside h4{
+       margin: 20px;
+       font-family: 'Times New Roman', Times, serif;
+   }
+   
+   .div1-inside p{
+       margin: 20px;
+       font-family: 'Times New Roman', Times, serif;
+   }
+   
+   .div1:hover{
+       background-color: rgb(135, 207, 235);
+       color: white;
+   }
+   
+   .about-us{
+       display: flex;
+       justify-content: space-around;
+       margin: 5%;
+   }
+   
+   .aboutUsImg img{
+       height: 500px;
+       width: 600px;
+       margin: 5%;
+   }
+   
+   .aboutUsText{
+       margin-left: 10%;
+       margin-right: 5%;
+   }
+   
+   .aboutUsText h4{
+       color: rgb(105, 202, 240);
+       font-family: 'Times New Roman', Times, serif;
+       font-size: 30px;
+   }
+   
+   .aboutUsText p{
+       font-family: 'Times New Roman', Times, serif;
+       font-size: 20px;
+   }
+   
+   .points li p{
+       font-family: 'Times New Roman', Times, serif;
+   }
+   
+   .readmore{
+       border: 2px solid black !important;
+       background-color: rgb(137, 220, 255) !important;
+       color: black !important;
+       font-family: 'Times New Roman', Times, serif !important;
+       margin: 10px;
+   }
+   
+   .categories{
+       text-align: center;
+       font-family: 'Times New Roman', Times, serif;
+   }
+   
+   .categories h4{
+       color: rgb(105, 202, 240);
+   }
+   
+   .one-line{
+       display: flex !important;
+       justify-content: space-evenly;
+       margin: 50px;
+       height: 300px;
+   }
+   
+   .second-line{
+       display: flex !important;
+       justify-content: space-evenly;
+       margin: 50px;
+       height: 300px;
+   }
+   
+   .h-100{
+       height: 300px !important;
+       width: 300px !important;
+       border-radius: 20px !important;
+   }
+   
+   .h-100 img{
+       border-radius: 20px !important;
+   }
+   
+   .card-body a {
+       text-decoration: none !important;
+   }
+   
+   .popular-card {
+       text-align: center;
+   }
+   
+   .cards-container{
+       display: flex;
+       justify-content: space-around;
+   }
+   
+   .courses-detail{
+       text-align: center;
+       font-family: 'Times New Roman', Times, serif;
+       margin-top: 5%;
+   }
+   
+   .courses-detail h4{
+       color: rgb(105, 202, 240);
+   }
+   
+   .popular-all-cards{
+       display: flex;
+       justify-content: space-evenly;
+       margin: 50px;
+   }
+   
+   .card-rating{
+       font-family: 'Times New Roman', Times, serif;
+       font-size: 20px;
+       text-align: center;
+   }
+   
+   .card-rating span{
+       color: gold;
+   }
+   
+   .user{
+       display: flex;
+       justify-content: center;
+       margin: 2%;
+       width: 30%;
+   }
+   
+   .time{
+       display: flex;
+       justify-content: center;
+       margin: 2%;
+       width: 20%;
+       height: 40%;
+   }
+   
+   .user1{
+       display: flex;
+       justify-self: center;
+       margin: 2%;
+       width: 35%;
+       height: 40%;
+   }
+   
+   .card-footer{
+       display: flex;
+       padding: 0 !important;
+       text-align: center;
+   }
+   
+   .user span{
+       margin: 3% !important;
+       font-size: 1rem;
+   }
+   
+   .time span{
+       margin: 3% !important;
+       font-size: 1rem;
+   }
+   
+   .user1 span{
+       margin: 3% !important;
+       font-size: 1rem;
+   }
+   
+   .user p{
+       font-size: 15px;
+       margin: 1%;
+   }
+   
+   .time p{
+       font-size: 15px;
+       margin: 1%;
+   }
+   
+   .user1 p{
+       font-size: 15px;
+       margin: 1%;
+   }
+   
+   .popular-all-cards img{
+       border-radius: 20px;
+   }
+   
+   .popular-all-cards .card{
+       border-radius: 20px;
+   }
+   
+   .one-line1{
+       text-align: center;
+       display: flex !important;
+       justify-content: space-evenly;
+       margin: 50px;
+       height: 300px;
+       font-family: 'Times New Roman', Times, serif;
+   }
+   
+   .second-line1{
+       display: flex !important;
+       justify-content: space-evenly;
+       margin: 50px;
+       height: 300px;
+       text-align: center;
+       font-family: 'Times New Roman', Times, serif;
+   }
+   
+   .instructors{
+       text-align: center;
+       font-family: 'Times New Roman', Times, serif;
+       margin-top: 5%;
+   }
+   
+   .instructors h4{
+       color: rgb(105, 202, 240);
+   }
+   
+   .testimonial{
+       text-align: center;
+       font-family: 'Times New Roman', Times, serif;
+       margin-top: 5%;
+   }
+   
+   .testimonial h4{
+       color: rgb(105, 202, 240);
+   }
+   
+   .testimonal-all-cards{
+       display: flex;
+       justify-content: space-evenly;
+       margin: 50px 20px 50px 20px;
+   }
+   
+   .testimonal-all-cards .mb-3{
+       border-radius: 20px;
+   }
+   
+   .testimonal-all-cards img{
+       height: 160px;
+       width: 200px;
+       border-radius: 20px !important;
+   }
+   
+   .footer-container-all{
+       height: 450px;
+       width: 100%;
+       background-color: rgb(22, 16, 59);
+       color: white;
+   }
+   
+   .footer-container {
+       display: flex;
+       justify-content: space-around;
+       font-family: 'Times New Roman', Times, serif;
+   }
+   
+   .Quicklink{
+       margin: 90px 10px 10px 10px;
+   }
+   
+   .quick-link-items{
+       display: flex;
+   }
+   
+   .quick-one{
+       display: grid;
+       height: 100px;
+       width: 20px;
+   }
+   
+   .quick-one i{
+       font-size: 15px;
+       margin: 5px;
+       text-align: left;
+   }
+   
+   .quick-two{
+       display: grid;
+       height: 100px;
+       width: 140px;
+   }
+   
+   .quick-two a{
+       color: white;
+       text-decoration: none;
+   }
+   
+   .contact{
+       margin: 90px 10px 10px 10px;
+   }
+   
+   .contact-items{
+       display: flex;
+       height: 100px;
+       width: 250px;
+   }
+   
+   .contact-one{
+       display: grid;
+       height: 100px;
+       width: 20px;
+   }
+   
+   .contact-two{
+       display: grid;
+       height: 100px;
+       width: 140px;
+   }
+   
+   .contact-two p{
+       margin: -2px 3px 3px 3px;
+   }
+   
+   .contact-items i{
+       font-size: 15px;
+       margin: 5px 3px 5px 3px;
+       display: flex;
+   }
+   
+   .contact-items p{
+       width: 220px;
+   }
+   
+   .social-media{
+       display: flex; 
+       width: 100px;
+   }
+   
+   .social-media i{
+       font-size: 20px;
+   }
+   
+   .social-media a{
+       height: 30px;
+       width: 50px;
+       font-size: 30px;
+       margin: 5px;
+       text-decoration: none;
+       color: white;
+   }
+   
+   .gallery-one img{
+       width: 60px;
+       height: 50px;
+       margin: 5px;
+   }
+   
+   .gallery-two img{
+       width: 60px;
+       height: 50px;
+       margin: 5px;
+   }
+   
+   .gallery{
+       margin: 90px 10px 10px 10px;
+   }
+   
+   .newsletter{
+       margin: 90px 10px 10px 10px;
+       width: 220px;
+       height: 70px;
+   }
+   
+   .newsletter-form input{
+       width: 150px;
+   }
+   
+   .footer-container1{
+       color: white;
+   }
+   
+   .footer-logo{
+       color: white;
+       margin: 50px;
+   }
